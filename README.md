@@ -97,14 +97,10 @@ Edit
 Contributions are welcome! Please fork the repo and submit a PR.
 Follow proper commit message conventions and write clean, documented code.
 
-📃 License
-This project is licensed under the MIT License.
+
 
 📬 Contact
 Author: Vimarsh Dwivedi
 📧 LinkedIn
 📂 GitHub
 
-yaml
-Copy
-Edit
